@@ -1,0 +1,5 @@
+#my config
+log/
+
+#pyhton
+*.pyc

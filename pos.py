@@ -1,12 +1,12 @@
 #!/usr/bin/python
-#coding:gbk
+#coding:UTF-8
 #############################################################################
 #                Copyright (C),2002-2012,China UMS Co.,Ltd.
 #
 # File name      : pos.py
 # Author         : 
 # Version        : 1.0
-# Date           : 2017-07-25
+# Date           : 2018-02-05
 # Description    : pos∑¬’Ê÷’∂À
 #                  
 #

@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#coding:gbk
+#coding:UTF-8
 
 host = ('144.131.254.154', 30203)
 

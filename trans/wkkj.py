@@ -124,7 +124,7 @@ zhifu = {
 all_trans = [
     qiandao, 
 	qudaochaxun,
-	chufaduanxin,
-	zhifuzhunbei,
-	zhifu,
+	#chufaduanxin,
+	#zhifuzhunbei,
+	#zhifu,
 ]
